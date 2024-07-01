@@ -1,2 +1,2 @@
-# Search-news-on-web-using-an-API-
-Built an online news search app using data from news.api/org
+# HeadlinesHub
+Built an online news search app fetching data from news.api/org
